@@ -8,7 +8,6 @@ class Cat {
     return `${this.name} says meow!`
   }
 }
-cat.speak();
 class Dog {
   constructors (name,sex){
     this.name = name;
