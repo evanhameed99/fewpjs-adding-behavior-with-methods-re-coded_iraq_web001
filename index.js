@@ -1,6 +1,6 @@
 // Your code here
 class Cat {
-  constructors (name,sex){
+  constructor (name,sex){
     this.name = name;
     this.sex=sex;
   }
@@ -9,7 +9,7 @@ class Cat {
   }
 }
 class Dog {
-  constructors (name,sex){
+  constructor (name,sex){
     this.name = name;
     this.sex=sex;
   }
@@ -19,7 +19,7 @@ class Dog {
 
 }
 class Bird {
-  constructors (name,sex){
+  constructor (name,sex){
     this.name = name;
     this.sex=sex;
   }
