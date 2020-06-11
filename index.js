@@ -32,4 +32,4 @@ class Bird {
   }
 
 }
-const newCat= new Cat('skd','male')
+//const newCat= new Cat('skd','male')
