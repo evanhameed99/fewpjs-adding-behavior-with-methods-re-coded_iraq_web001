@@ -4,5 +4,24 @@ class Cat {
     this.name = name;
     this.sex=sex;
   }
+  speak(){
+    return `${this.name} says meow!`
+  }
+}
+class Dog {
+  constructors (name,sex){
+    this.name = name;
+    this.sex=sex;
+  }
+  speak(){
+    return `${this.name} says woof!`
+  }
+  
+}
+class Bird {
+  constructors (name,sex){
+    this.name = name;
+    this.sex=sex;
+  }
   
 }
